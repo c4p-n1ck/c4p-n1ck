@@ -1,7 +1,7 @@
 <h1><code>$ who\am\i;</code></h1>  https://is.gd/face_reveal
 <h3>Captain Nick Lucifer* (स्वमी निखिलेस्वोर) &lt;@naryal2580&gt; Nikhil Aryal, Narey Bhai, Glitchy Bramha, nick</h3>
 <div align="center" id="whoami">
-  <img src="https://cdn.discordapp.com/avatars/842764581498912778/9b45fa8d01f1ff92d74833d5253e9132.png?size=4096)" align="right"/>
+  <img src="https://cdn.discordapp.com/avatars/842764581498912778/7c7b6d67f392dee1cdc81e38371740b8.png?size=256" align="right"/>
 
   A "well-known" (maybe) mentor; who makes fun [CTF](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)) challenges and, handcrafts offensive [infosec](https://en.wikipedia.org/wiki/Information_security)/[red team engagement](https://en.wikipedia.org/wiki/Red_team) tools! 😃
   <hr width="10%">
