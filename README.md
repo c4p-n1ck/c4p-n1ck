@@ -1,4 +1,4 @@
-<h1><code>$ who\am\i;</code></h1>  https://is.gd/face_reveal
+<h1><code>$ who\am\i;</code></h1>  https://is.gd/face_reveal https://prof-xadk3.github.io/
 <h3>Captain Nick Lucifer* (स्वमी निखिलेस्वोर) &lt;@naryal2580&gt; Nikhil Aryal, Narey Bhai, Glitchy Bramha, nick</h3>
 <div align="center" id="whoami">
   <img src="https://avatars.githubusercontent.com/u/86857450?v=4" align="right"/>
