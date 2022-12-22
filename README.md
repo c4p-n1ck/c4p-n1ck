@@ -1,7 +1,7 @@
 <h1><code>$ who\am\i;</code></h1>  https://is.gd/face_reveal https://prof-xadk3.github.io/
 <h3>Captain Nick Lucifer* (स्वमी निखिलेस्वोर) &lt;@naryal2580&gt; Nikhil Aryal, Narey Bhai, Glitchy Bramha, nick</h3>
 <div align="center" id="whoami">
-  <img src="https://avatars.githubusercontent.com/u/86857450?v=4" align="right"/>
+  <img src="https://avatars.githubusercontent.com/u/86857450?v=3.333" align="right"/>
 
   A "well-known" (maybe) Nepali mentor; who makes fun [CTF](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)) challenges and, handcrafts offensive [infosec](https://en.wikipedia.org/wiki/Information_security)/[red team engagement](https://en.wikipedia.org/wiki/Red_team) tools! 😃
   <hr width="10%">
@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/Rust-grey?style=for-the-badge&logoColor=white&logo=rust">
   <hr width="40%">
   <div id="stats">
+    <br />
     <img alt="Nick's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=naryal2580&line_height=20&show_icons=true&include_all_commits=true&theme=tokyonight&cache_seconds=1800&custom_title=Nick's%20Github%20Stats" height=180>
     <img alot="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naryal2580&theme=tokyonight&show_icons=true&hide=html,css,ocaml&langs_count=3&custom_title=Most%20Used%20Languages" height=180>
   <br><hr width="40%">
