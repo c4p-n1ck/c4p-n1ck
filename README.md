@@ -45,6 +45,8 @@
 </div>
 
 <hr>
+<a href="https://wiki.archlinux.org/title/desktop_entries">Get some help here - [ https://wiki.archlinux.org/title/desktop_entries ] </a>
+<hr />
 <img src= "https://profile-counter.glitch.me/prof-xadk3/count.svg" />
 <hr />
 <img src="https://profile-counter.glitch.me/c4p-n1ck/count.svg" />
