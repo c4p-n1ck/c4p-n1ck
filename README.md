@@ -45,7 +45,11 @@
 </div>
 
 <hr>
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/prof-xadk3/count.svg)
+<hr />
+![Visitor Count](https://profile-counter.glitch.me/c4p-n1ck/count.svg)
+<hr />
+![Visitor Count](https://profile-counter.glitch.me/naryal2580/count.svg)
 <hr />
 
 <u><i>*<b>Lucifer</b>, pronounced <b>Lu-cipher</b></i>.</u>
