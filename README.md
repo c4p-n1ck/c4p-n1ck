@@ -24,19 +24,15 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logoColor=white&logo=git">
   <img src="https://img.shields.io/badge/Rust-grey?style=for-the-badge&logoColor=white&logo=rust">
   <hr width="40%">
-  <div id="stats">
-    <br />
-    <img alt="Nick's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=naryal2580&line_height=20&show_icons=true&include_all_commits=true&theme=tokyonight&cache_seconds=1800&custom_title=Nick's%20Github%20Stats" height=180>
-    <img alot="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naryal2580&theme=tokyonight&show_icons=true&hide=html,css,ocaml&langs_count=3&custom_title=Most%20Used%20Languages" height=180>
-  <br><hr width="40%">
+  <div id="stats
   </div>
   <div id="contact">
-    <a href="https://is.gd/hello_nick" target="_blank"><img alt="Discord" src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="48"></a>
-    <a href="https://t.me/n4ry4l2580" target="_blank"><img alt="Telegram" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="48"></a>
+    <a href="https://is.gd/xadkekosvr" target="_blank"><img alt="Discord" src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="48"></a>
+    <a href="https://t.me/xadkeG" target="_blank"><img alt="Telegram" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="48"></a>
     <a href="https://m.me/n4ry4l2580" target="_blank"><img alt="Messenger" src="https://edent.github.io/SuperTinyIcons/images/svg/messenger.svg" width="48"></a>
     <a href="mailto:naryal2580@gmail.com" target="_blank"><img alt="E-mail" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="48"></a>
     <a href="https://twitter.com/naryal2580" target="_blank"><img alt="Twitter" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="48"></a>
-    <a href="https://instagram.com/naryal2580" target="_blank"><img alt="Instagram" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="48"></a>
+    <a href="https://instagram.com/profxadke" target="_blank"><img alt="Instagram" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="48"></a>
     <a href="https://facebook.com/n4ry4l2580" target="_blank"><img alt="Facebook" src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="48"></a>
     <a href="https://www.youtube.com/c/CaptainNickLucifer" target="_blank"><img alt="YouTube" src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="48"></a>
     <a href="https://is.gd/linkedin_nick" target="_blank"><img alt="LinkedIn" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="48"></a>
