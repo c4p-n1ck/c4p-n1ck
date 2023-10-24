@@ -31,7 +31,7 @@
     <a href="https://t.me/xadkeG" target="_blank"><img alt="Telegram" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="48"></a>
     <a href="https://m.me/n4ry4l2580" target="_blank"><img alt="Messenger" src="https://edent.github.io/SuperTinyIcons/images/svg/messenger.svg" width="48"></a>
     <a href="mailto:naryal2580@gmail.com" target="_blank"><img alt="E-mail" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="48"></a>
-    <a href="https://twitter.com/naryal2580" target="_blank"><img alt="Twitter" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="48"></a>
+    <a href="https://x.com/profxadke" target="_blank"><img alt="X" src="https://edent.github.io/SuperTinyIcons/images/svg/x.svg" width="48"></a>
     <a href="https://instagram.com/profxadke" target="_blank"><img alt="Instagram" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="48"></a>
     <a href="https://facebook.com/n4ry4l2580" target="_blank"><img alt="Facebook" src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="48"></a>
     <a href="https://www.youtube.com/c/CaptainNickLucifer" target="_blank"><img alt="YouTube" src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="48"></a>
